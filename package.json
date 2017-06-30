@@ -1,0 +1,28 @@
+{
+  "name": "guiado-node",
+  "version": "1.0.0",
+  "description": "\"Ejercicio Guiado\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Misshel/S48-NodeGuiado.git"
+  },
+  "keywords": [
+    "ejemplo",
+    "node",
+    "npm"
+  ],
+  "author": "Misshel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Misshel/S48-NodeGuiado/issues"
+  },
+  "homepage": "https://github.com/Misshel/S48-NodeGuiado#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "materialize-css": "^0.99.0"
+  }
+}
